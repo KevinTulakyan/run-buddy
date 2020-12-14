@@ -7,7 +7,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-ttps://kevintulakyan.github.io/run-buddy/
+https://kevintulakyan.github.io/run-buddy/
 
 
 ## Contribution
