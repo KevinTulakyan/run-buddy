@@ -12,3 +12,5 @@ https://kevintulakyan.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [me]
+
+Run Buddy Inc.
