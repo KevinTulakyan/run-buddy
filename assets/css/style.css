@@ -237,7 +237,6 @@ section {
 
 }
 .contact {
-    
     background: #024e76;
 }
 .contact h2{
@@ -247,13 +246,17 @@ section {
     flex: 1;
     margin: 15px;
   }
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 .contact-info iframe{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .contact-info div{
-    
     color: white;
 }
 .contact-info h3 {
